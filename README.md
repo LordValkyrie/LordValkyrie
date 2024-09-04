@@ -1,11 +1,11 @@
 <!--introduction-->
 <h1 align="center">
-  Hi, I'm LordValkyrie
+  Hi, I'm Bambi
 </h1>
 
 <!--tagline-->
 <h3 align="center">
-  Cool 9th grader
+  Dumb 9th grader
 </h3>
 
 <!--badges-->
