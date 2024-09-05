@@ -70,7 +70,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordValkyrie&theme=github-dark&hide_border=true">
 
 <div align="center">
-![fire](https://github.com/user-attachments/assets/c51dc2c9-ddee-4620-b028-5a65c6056cf8)
+![image](https://github.com/user-attachments/assets/9dc400ba-2b46-42d7-a655-2ec219854a18)
+
 
 
 <!--
