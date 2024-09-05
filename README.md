@@ -70,7 +70,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordValkyrie&theme=github-dark&hide_border=true">
 
 <div align="center">
-fire.gif
+https://github.com/LordValkyrie/LordValkyrie/blob/main/assets/fire.gif?raw=true
 
 <!--
 **LordValkyrie/LordValkyrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
