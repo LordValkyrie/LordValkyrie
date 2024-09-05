@@ -69,8 +69,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordValkyrie&theme=github-dark&hide_border=true">
 
-<div align="center">
-https://github.com/LordValkyrie/LordValkyrie/blob/main/assets/fire.gif?raw=true
 
 <!--
 **LordValkyrie/LordValkyrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -86,3 +84,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: It is impossible for me to beat Levon at funny Friday
 -->
+fire.gif
