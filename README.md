@@ -69,6 +69,9 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordValkyrie&theme=github-dark&hide_border=true">
 
+<div align="center">
+![fire](https://github.com/user-attachments/assets/c51dc2c9-ddee-4620-b028-5a65c6056cf8)
+
 
 <!--
 **LordValkyrie/LordValkyrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -85,5 +88,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: It is impossible for me to beat Levon at funny Friday
 -->
 
-![fire](https://github.com/user-attachments/assets/c51dc2c9-ddee-4620-b028-5a65c6056cf8)
 
