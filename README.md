@@ -69,6 +69,9 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordValkyrie&theme=github-dark&hide_border=true">
 
+<div align="center">
+fire.gif
+
 <!--
 **LordValkyrie/LordValkyrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
