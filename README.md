@@ -26,7 +26,6 @@
 </div>
 
 <!--github readme streak stats title-->
-## <img src="assets/fire.gif" width="30" height="30"> Streak Stats
 
 
   </div>
