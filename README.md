@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=LordValkyrie">
   <img src="https://img.shields.io/github/stars/LordValkyrie?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square">
   <img src="https://img.shields.io/github/followers/LordValkyrie?color=4C1&logo=github&style=fflat-square">
-  <img src="https://img.shields.io/github/last-commit/om3ga6400/LordValkyrie?label=Profile%20update&style=fflat-square">
+  <img src="https://img.shields.io/github/last-commit/LordValkyrie/LordValkyrie?label=Profile%20update&style=fflat-square">
   <img src="https://img.shields.io/github/commit-activity/m/LordValkyrie/LordValkyrie">
   <img src="https://dcbadge.vercel.app/api/shield/1232072032590758069?style=flat">
 </p>
@@ -31,7 +31,7 @@
 <!--github readme streak stats-->
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=om3ga6400&theme=github-dark-blue&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=LordValkyrie&theme=github-dark-blue&hide_border=true">
   </div>
 
 <!--github profile trophy title-->
@@ -49,10 +49,10 @@
 <!--github readme stats-->
 <div align="center">
 <a href="https://github.com/LordValkyrie/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-LordValkyrie.vercel.app/api?username=om3ga6400&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="425px"/>
+  <img height=200 align="center" src="https://github-readme-stats-LordValkyrie.vercel.app/api?username=LordValkyrie&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="425px"/>
 </a>
-<a href="https://github.com/om3ga6400/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs/?username=LordValkyrie&langs_count=10&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/>
+<a href="https://github.com/LordValkyrie/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-LordValkyrie.vercel.app/api/top-langs/?username=LordValkyrie&langs_count=10&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/>
 </a>
 </div>
 
@@ -73,7 +73,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordValkyrie&theme=github-dark&hide_border=true">
 
 <!--
-**OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LordValkyrie/LordValkyrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
