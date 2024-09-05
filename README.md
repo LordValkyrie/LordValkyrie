@@ -40,18 +40,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=LordValkyrie&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
   </div>
 
-<!--github readme stats title-->
-## 📊 Github Stats
-
-<!--github readme stats-->
-<div align="center">
-<a href="https://github.com/LordValkyrie/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-LordValkyrie.vercel.app/api?username=LordValkyrie&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="425px"/>
-</a>
-<a href="https://github.com/LordValkyrie/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-LordValkyrie.vercel.app/api/top-langs/?username=LordValkyrie&langs_count=10&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/>
-</a>
-</div>
 
 <!--programming quote title-->
 ## 📜 Programming Quote
