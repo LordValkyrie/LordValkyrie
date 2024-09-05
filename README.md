@@ -28,10 +28,7 @@
 <!--github readme streak stats title-->
 ## <img src="assets/fire.gif" width="30" height="30"> Streak Stats
 
-<!--github readme streak stats-->
-<div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=LordValkyrie&theme=github-dark-blue&hide_border=true">
+
   </div>
 
 <!--github profile trophy title-->
