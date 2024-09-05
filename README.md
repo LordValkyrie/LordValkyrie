@@ -5,7 +5,7 @@
 
 <!--tagline-->
 <h3 align="center">
-  Dumb 9th grader
+  Dumb ass 9th grader
 </h3>
 
 <!--badges-->
