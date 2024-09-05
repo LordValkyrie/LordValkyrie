@@ -69,7 +69,9 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordValkyrie&theme=github-dark&hide_border=true">
 
-![image](https://github.com/user-attachments/assets/9dc400ba-2b46-42d7-a655-2ec219854a18)
+![image](https://github.com/user-attachments/assets/b64f6128-753b-46a0-9aef-a01ba5f0e59d)
+
+
 
 
 
