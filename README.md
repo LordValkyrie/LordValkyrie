@@ -84,5 +84,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: It is impossible for me to beat Levon at funny Friday
 -->
-![image](https://github.com/user-attachments/assets/897189eb-30fa-4c7d-9400-1e34bc3b9dbc)
+![gif](https://github.com/user-attachments/assets/897189eb-30fa-4c7d-9400-1e34bc3b9dbc)
 
