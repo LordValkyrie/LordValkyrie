@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/followers/LordValkyrie?color=4C1&logo=github&style=fflat-square">
   <img src="https://img.shields.io/github/last-commit/LordValkyrie/LordValkyrie?label=Profile%20update&style=fflat-square">
   <img src="https://img.shields.io/github/commit-activity/m/LordValkyrie/LordValkyrie">
-  <p align="center"> <img src="https://img.shields.io/badge/Discord-vuitgd_-red/?logo=discord&color=7289DA" alt="LordValkyrie" />
+  <p align="center"> <img src="https://img.shields.io/badge/Discord-vuitgd_ -red/?logo=discord&color=7289DA" alt="LordValkyrie" />
 </p>
 
 <!--typing-->
