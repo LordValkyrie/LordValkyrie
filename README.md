@@ -21,7 +21,7 @@
 <!--typing-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4750&pause=750&color=20C20E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+om3ga!%F0%9F%91%8B;I+mainly+use+Javascript%2C+Html+and+Css.%F0%9F%92%BB;I+am+completely+self-taught.%F0%9F%93%96;I've+been+coding+for+4+years!%E2%8F%B0;Thanks+for+visiting+my+profile!%F0%9F%98%8A">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4750&pause=750&color=20C20E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bambi!%F0%9F%91%8B;I+mainly+use+Javascript%2C+Html+and+Lua.%F0%9F%92%BB;I+am+completely+self-taught.%F0%9F%93%96;I've+been+coding+for+3+years!%E2%8F%B0;Thanks+for+visiting+my+profile!%F0%9F%98%8A">
   </a>
 </div>
 
@@ -40,7 +40,7 @@
 <!--github profile trophy-->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
+    <img src="https://github-profile-trophy.vercel.app/?username=LordValkyrie&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
   </div>
 
 <!--github readme stats title-->
@@ -48,11 +48,11 @@
 
 <!--github readme stats-->
 <div align="center">
-<a href="https://github.com/om3ga6400/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="425px"/>
+<a href="https://github.com/LordValkyrie/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-LordValkyrie.vercel.app/api?username=om3ga6400&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="425px"/>
 </a>
 <a href="https://github.com/om3ga6400/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs/?username=OM3GA6400&langs_count=10&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/>
+  <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs/?username=LordValkyrie&langs_count=10&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/>
 </a>
 </div>
 
@@ -70,7 +70,7 @@
 
 <!--activity graph-->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LordValkyrie&theme=github-dark&hide_border=true">
 
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
