@@ -5,7 +5,7 @@
 
 <!--tagline-->
 <h3 align="center">
-  Dumb ass 9th grader
+  Dumb ass 9th grader At Tucker high
 </h3>
 
 <!--badges-->
