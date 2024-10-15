@@ -1,6 +1,6 @@
 <!--introduction-->
 <h1 align="center">
-  Hi, I'm Bambi
+  Hi, I'm Bambi, preferred Veil
 </h1>
 
 <!--tagline-->
