@@ -20,7 +20,7 @@
 <!--typing-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4750&pause=750&color=20C20E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+exeti0r;I+mainly+use+Java%2C+and+C# +and+Lua.%F0%9F%92%BB;I+am+completely+self-taught.%F0%9F%93%96;I've+been+coding+for+5+years!%E2%8F%B0;Thanks+for+visiting+my+profile!%F0%9F%98%8A">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4750&pause=750&color=20C20E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+exeti0r;I+mainly+use+Java%2CPlus+CSharp +and+Lua.%F0%9F%92%BB;I+am+completely+self-taught.%F0%9F%93%96;I've+been+coding+for+5+years!%E2%8F%B0;Thanks+for+visiting+my+profile!%F0%9F%98%8A">
   </a>
 </div>
 
