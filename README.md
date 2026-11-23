@@ -5,7 +5,7 @@
 
 <!--tagline-->
 <h3 align="center">
-  In my Senior year of High-School
+  In my Junior year of High-School
 </h3>
 
 <!--badges-->
