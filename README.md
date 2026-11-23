@@ -30,14 +30,6 @@
     <img src="https://streak-stats.demolab.com?user=LordValkyrie&theme=github-dark-blue&hide_border=true">
   </div>
 
-<!--github profile trophy title-->
-## 🏆 Awards
-
-<!--github profile trophy-->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LordValkyrie&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
-  </div>
 
 <!--programming quote title-->
 ## 📜 Programming Quote
