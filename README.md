@@ -1,6 +1,6 @@
 <!--introduction-->
 <h1 align="center">
-  EXETI0R's Page
+  Hello, I'm exeti0r preferred Veil, or Ash 
 </h1>
 
 <!--tagline-->
