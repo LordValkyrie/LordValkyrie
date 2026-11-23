@@ -1,6 +1,6 @@
 <!--introduction-->
 <h1 align="center">
-  Hi, I'm Bambi, preferred Veil
+  EXETI0R's Page
 </h1>
 
 <!--tagline-->
