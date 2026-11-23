@@ -1,6 +1,6 @@
 <!--introduction-->
 <h1 align="center">
-  Hello, I'm exeti0r preferred Veil, or Ash 
+  Hello, I'm Ash
 </h1>
 
 <!--tagline-->
